@@ -4,7 +4,7 @@
 
 # Task Recoder
 
-- [Live Site](https://task-manager-fedb7.web.app)
+- [Live Site](https://write-your-note.netlify.app/)
 
 # > Technology Used
 
